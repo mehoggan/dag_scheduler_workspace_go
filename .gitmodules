@@ -1,6 +1,6 @@
 [submodule "bootstrap-go"]
 	path = bootstrap-go
-	url = ./bootstrap-go
+	url = git@github.com:mehoggan/bootstrap-go.git
 [submodule "stringutil-go"]
 	path = stringutil-go
-	url = ./stringutil-go/
+	url = git@github.com:mehoggan/stringutil-go.git
