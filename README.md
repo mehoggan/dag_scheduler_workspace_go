@@ -12,7 +12,7 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 > git submodule add <path to module>
 ```
 
-### How to add the module to root module to auto download dependencies.
+### Keep things up-to-date
 ```sh
 git submodule update --inite --recursive
 ```
