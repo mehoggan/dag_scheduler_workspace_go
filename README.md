@@ -5,6 +5,12 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 
 ## Developer Notes
 
+### How to clone the repository and all the go modules as git submodules
+```
+> git clone \
+  --recurse-submodules git@github.com:mehoggan/dag_scheduler_workspace_go.git
+```
+
 ### How to add a module in this workspace
 ```sh
 > git clone <git url>
