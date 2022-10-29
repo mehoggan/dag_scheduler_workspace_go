@@ -14,7 +14,7 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 
 ### Keep things up-to-date
 ```sh
-git submodule update --inite --recursive
+> git submodule update --inite --recursive
 ```
 
 ### How to run a module in this workspace
