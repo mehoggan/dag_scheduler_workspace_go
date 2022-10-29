@@ -4,3 +4,6 @@
 [submodule "stringutil-go"]
 	path = stringutil-go
 	url = git@github.com:mehoggan/stringutil-go.git
+[submodule "vinyl-collection-service-go"]
+	path = vinyl-collection-service-go
+	url = git@github.com:mehoggan/vinyl-collection-service-go.git

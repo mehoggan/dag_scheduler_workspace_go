@@ -5,8 +5,15 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 
 ## Developer Notes
 
-### How to clone the repository and all the go modules as git submodules
+### Adding a new module
+```sh
+> git clone <module repository clone url>
+> cd <module repository>
+> go mod init <go git hub module name>
 ```
+
+### How to clone the repository and all the go modules as git submodules
+```sh
 > git clone \
   --recurse-submodules git@github.com:mehoggan/dag_scheduler_workspace_go.git
 ```

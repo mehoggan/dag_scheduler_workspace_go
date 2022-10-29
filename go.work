@@ -1,6 +1,7 @@
 go 1.18
 
 use (
-	./bootstrap-go  // github.com/mehoggan/bootstrap-go@v0.0.1
-	./stringutil-go  // github.com/mehoggan/stringutil-go@v0.0.1
+	./bootstrap-go
+	./stringutil-go
+	./vinyl-collection-service-go
 )
