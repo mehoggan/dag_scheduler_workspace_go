@@ -9,10 +9,12 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 ```sh
 > git clone <git url>
 > go work use <path to module>
+> git submodule add <path to module>
 ```
 
 ### How to add the module to root module to auto download dependencies.
 ```sh
+git submodule update --inite --recursive
 ```
 
 ### How to run a module in this workspace
