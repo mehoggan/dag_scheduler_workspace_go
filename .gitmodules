@@ -7,3 +7,6 @@
 [submodule "vinyl-collection-service-go"]
 	path = vinyl-collection-service-go
 	url = git@github.com:mehoggan/vinyl-collection-service-go.git
+[submodule "simple-wiki-web-app-go"]
+	path = simple-wiki-web-app-go
+	url = git@github.com:mehoggan/simple-wiki-web-app-go.git

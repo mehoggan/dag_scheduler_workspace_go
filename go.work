@@ -2,6 +2,7 @@ go 1.18
 
 use (
 	./bootstrap-go
+	./simple-wiki-web-app-go
 	./stringutil-go
 	./vinyl-collection-service-go
 )
