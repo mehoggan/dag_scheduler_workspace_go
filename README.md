@@ -33,7 +33,7 @@ See https://go.dev/doc/tutorial/workspaces for more information. </br>
 ### Upgrade golang dependencies
 ```sh
 # Taken from: https://golang.cafe/blog/how-to-upgrade-golang-dependencies.html
-> get <git module golang syntax>@<version|sha>
+> go get -u <git module golang syntax>@<version|sha>
 ```
 
 ### How to run a module in this workspace
